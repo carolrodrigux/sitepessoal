@@ -36,6 +36,13 @@ body {
 			a {
 				color: #949494;
 				margin-right: 15px;
+
+				i {
+					&:hover {
+						color: #303030;
+						font-weight: bold;
+					}
+				}
 			}
 		}
 	}

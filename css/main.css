@@ -36,6 +36,10 @@ body {
   color: #949494;
   margin-right: 15px;
 }
+.header ul li a i:hover {
+  color: #303030;
+  font-weight: bold;
+}
 
 .hero {
   padding: 100px 0;
